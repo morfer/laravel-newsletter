@@ -1,4 +1,4 @@
-# Custom Master
+# Custom Master v01
 
 # Manage newsletters in Laravel
 [![Latest Version](https://img.shields.io/github/release/spatie/laravel-newsletter.svg?style=flat-square)](https://github.com/spatie/laravel-newsletter/releases)
